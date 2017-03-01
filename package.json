@@ -1,0 +1,26 @@
+{
+  "name": "website",
+  "version": "0.0.1",
+  "description": "website project template",
+  "main": "project.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richRemer/website.git"
+  },
+  "author": "Richard Remer <reanjr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/website/issues"
+  },
+  "homepage": "https://github.com/richRemer/website#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.2.0"
+  }
+}
